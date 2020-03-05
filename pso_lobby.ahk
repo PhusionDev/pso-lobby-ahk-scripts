@@ -194,24 +194,6 @@ SetKeyDelayNormal()
     Send, {Enter}
     return
 
-;   //// Keep Alive Movement Script ////
-^t::
-    ToolTip, Keep Alive Active
-    Loop, 5000
-    {
-        Send, {W}
-        Send, {W}
-        Send, {S}
-        Send, {S}
-        Sleep, 180000
-    }
-    return
-
-; Create Game (Private MAG Feeding)
-^\::
-    OrganizeParty(1,"dansmags","milk","normal","normal")
-    return
-
 ;   ////////////////////////////////////
 ;   //// SCRIPT FUNCTIONS AND LOGIC ////
 ;   ////////////////////////////////////
