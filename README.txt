@@ -9,29 +9,29 @@ Normal/Multiplayer Hotkeys
 LCtrl+1		Episode: 1, Play Mode: Normal, Difficulty: Normal
 LAlt+1		Episode: 1, Play Mode: Normal, Difficulty: Hard
 LCtrl+LAlt+1	Episode: 1, Play Mode: Normal, Difficulty: Very Hard
-LShift+1		Episode: 1, Play Mode: Normal, Difficulty: Ultimate
+LShift+1	Episode: 1, Play Mode: Normal, Difficulty: Ultimate
 LCtrl+2		Episode: 2, Play Mode: Normal, Difficulty: Normal
 LAlt+2		Episode: 2, Play Mode: Normal, Difficulty: Hard
 LCtrl+LAlt+2	Episode: 2, Play Mode: Normal, Difficulty: Very Hard
-LShift+2		Episode: 2, Play Mode: Normal, Difficulty: Ultimate
+LShift+2	Episode: 2, Play Mode: Normal, Difficulty: Ultimate
 LCtrl+4		Episode: 4, Play Mode: Normal, Difficulty: Normal
 LAlt+4		Episode: 4, Play Mode: Normal, Difficulty: Hard
 LCtrl+LAlt+4	Episode: 4, Play Mode: Normal, Difficulty: Very Hard
-LShift+4		Episode: 4, Play Mode: Normal, Difficulty: Ultimate
+LShift+4	Episode: 4, Play Mode: Normal, Difficulty: Ultimate
 
 Solo/Single Player Hotkeys
 RCtrl+1		Episode: 1, Play Mode: Normal, Difficulty: Normal
 RAlt+1		Episode: 1, Play Mode: Normal, Difficulty: Hard
 RCtrl+RAlt+1	Episode: 1, Play Mode: Normal, Difficulty: Very Hard
-RShift+1		Episode: 1, Play Mode: Normal, Difficulty: Ultimate
+RShift+1	Episode: 1, Play Mode: Normal, Difficulty: Ultimate
 RCtrl+2		Episode: 2, Play Mode: Normal, Difficulty: Normal
 RAlt+2		Episode: 2, Play Mode: Normal, Difficulty: Hard
 RCtrl+RAlt+2	Episode: 2, Play Mode: Normal, Difficulty: Very Hard
-RShift+2		Episode: 2, Play Mode: Normal, Difficulty: Ultimate
+RShift+2	Episode: 2, Play Mode: Normal, Difficulty: Ultimate
 RCtrl+4		Episode: 4, Play Mode: Normal, Difficulty: Normal
 RAlt+4		Episode: 4, Play Mode: Normal, Difficulty: Hard
 RCtrl+RAlt+4	Episode: 4, Play Mode: Normal, Difficulty: Very Hard
-RShift+4		Episode: 4, Play Mode: Normal, Difficulty: Ultimate
+RShift+4	Episode: 4, Play Mode: Normal, Difficulty: Ultimate
 
 -- Custom Functions --
 OrganizeParty(episode:=-1,name:="",pass:="",mode:="",difficulty:="",defaultPass:=true)
