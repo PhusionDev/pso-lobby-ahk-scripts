@@ -20,18 +20,18 @@ LCtrl+LAlt+4	Episode: 4, Play Mode: Normal, Difficulty: Very Hard
 LShift+4	Episode: 4, Play Mode: Normal, Difficulty: Ultimate
 
 Solo/Single Player Hotkeys
-RCtrl+1		Episode: 1, Play Mode: Normal, Difficulty: Normal
-RAlt+1		Episode: 1, Play Mode: Normal, Difficulty: Hard
-RCtrl+RAlt+1	Episode: 1, Play Mode: Normal, Difficulty: Very Hard
-RShift+1	Episode: 1, Play Mode: Normal, Difficulty: Ultimate
-RCtrl+2		Episode: 2, Play Mode: Normal, Difficulty: Normal
-RAlt+2		Episode: 2, Play Mode: Normal, Difficulty: Hard
-RCtrl+RAlt+2	Episode: 2, Play Mode: Normal, Difficulty: Very Hard
-RShift+2	Episode: 2, Play Mode: Normal, Difficulty: Ultimate
-RCtrl+4		Episode: 4, Play Mode: Normal, Difficulty: Normal
-RAlt+4		Episode: 4, Play Mode: Normal, Difficulty: Hard
-RCtrl+RAlt+4	Episode: 4, Play Mode: Normal, Difficulty: Very Hard
-RShift+4	Episode: 4, Play Mode: Normal, Difficulty: Ultimate
+RCtrl+1		Episode: 1, Play Mode: One Person, Difficulty: Normal
+RAlt+1		Episode: 1, Play Mode: One Person, Difficulty: Hard
+RCtrl+RAlt+1	Episode: 1, Play Mode: One Person, Difficulty: Very Hard
+RShift+1	Episode: 1, Play Mode: One Person, Difficulty: Ultimate
+RCtrl+2		Episode: 2, Play Mode: One Person, Difficulty: Normal
+RAlt+2		Episode: 2, Play Mode: One Person, Difficulty: Hard
+RCtrl+RAlt+2	Episode: 2, Play Mode: One Person, Difficulty: Very Hard
+RShift+2	Episode: 2, Play Mode: One Person, Difficulty: Ultimate
+RCtrl+4		Episode: 4, Play Mode: One Person, Difficulty: Normal
+RAlt+4		Episode: 4, Play Mode: One Person, Difficulty: Hard
+RCtrl+RAlt+4	Episode: 4, Play Mode: One Person, Difficulty: Very Hard
+RShift+4	Episode: 4, Play Mode: One Person, Difficulty: Ultimate
 
 -- Custom Functions --
 OrganizeParty(episode:=-1,name:="",pass:="",mode:="",difficulty:="",defaultPass:=true)
