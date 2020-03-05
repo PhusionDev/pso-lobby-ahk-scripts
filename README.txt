@@ -5,6 +5,8 @@ Ctrl+X		Return to Lobby	(can be used any time in a party afaik)
 Ctrl+R		Reload Script	(reloads the hotkey script itself. Not necessary unless modifying the script)
 Ctrl+B		Toggle Bank [Character/Shared]	(can be used any time in a party afaik)
 
+The following organize party hotkeys must be pressed while standing at the counter in the lobby (with no menus open) as if you were about to talk to the NPC yourself.
+ 
 Normal/Multiplayer Hotkeys
 LCtrl+1		Episode: 1, Play Mode: Normal, Difficulty: Normal
 LAlt+1		Episode: 1, Play Mode: Normal, Difficulty: Hard
